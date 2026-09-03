@@ -1,0 +1,239 @@
+https://github.com/acnaweb/iac
+
+Criar um repositorio no github - mackenzie-iac
+Criar codespace
+Criar Dockerfile
+Criar Dockerfile para IaC
+
+https://www.conventionalcommits.org/en/v1.0.0/
+
+https://github.com/googleapis/release-please
+
+https://www.atlassian.com/br/git/tutorials/comparing-workflows/gitflow-workflow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Comandos docker
+Registry: repositório de imagens docker
+Docker Hub - https://hub.docker.com/
+
+
+curl -L  \
+   https://raw.githubusercontent.com/jbrownlee/Datasets/master/iris.csv \
+   -o iris.csv
+
+- docker images
+- docker run -it ubuntu
+- docker ps
+
+
+ANTONIO JUNIOR é agora o apresentador
+
+Luana Souza
+19:06
+Boa noite Professor
+
+ANTONIO JUNIOR
+19:06
+Boa noite!
+
+Luana Souza
+19:06
+Td certooo
+
+kevyn zarpellon
+19:07
+boa noiteee
+
+ANTONIO JUNIOR
+19:07
+Volto em 5 min, pessoal!
+
+Aguardando demais pessoas entrarem!
+
+Igor Sousa
+19:24
+é igual ao dontpad rsrs
+
+ARTHUR GIROTTI
+19:27
+acho que pegamos o arquivo pronto
+
+no git do professor
+
+Douglas Lucena
+19:28
+Usamos, mas usamos a configuração do prof
+
+Igor Sousa
+19:33
+OK
+
+Talita Sousa
+19:33
+Eu vou acompanhar.
+
+ARTHUR GIROTTI
+19:33
+não vou conseguir fazr agora
+
+mas to acompanhando professor
+
+kevyn zarpellon
+19:33
+vou acompanhar professor, depois farei
+
+matheus eman
+19:34
+to acompanhando!!
+
+kevyn zarpellon
+19:36
+ja trabalhei
+
+ARTHUR GIROTTI
+19:44
+ta incrível
+
+kevyn zarpellon
+19:53
+tranquiloo
+
+FERNANDA MELO
+19:55
+Chegando agora. Boa noite 😉
+
+kevyn zarpellon
+20:05
+eu uso versionamento usando o azure devops
+
+ANTONIO JUNIOR
+20:12
+https://notepad.pw/aulamackenzie
+
+https://www.atlassian.com/br/git/tutorials/comparing-workflows/gitflow-workflow
+
+https://github.com/googleapis/release-please
+
+docker images
+docker run -it ubuntu
+docker ps
+docker logs faa7
+
+docker rm -f e0fc
+
+https://github.com/acnaweb/docker
+
+kevyn zarpellon
+20:45
+bem de boas professor
+
+ANTONIO JUNIOR
+20:46
+https://developer.hashicorp.com/terraform
+
+https://github.com/acnaweb/gitops
+
+kevyn zarpellon
+21:06
+Na área que estou tenho pouco acesso, fico ali mais no databricks. esses contatos tenho mais no projetos pessoais
+
+ANTONIO JUNIOR
+21:26
+Quem já está aí levante a mão, pf
+
+FERNANDA MELO
+21:27
+To aqui
+
+ANTONIO JUNIOR
+21:33
+https://github.com/acnaweb/iac
+
+https://alpinelinux.org/
+
+docker build -t minha-imagem .
+
+https://semver.org/
+
+kevyn zarpellon
+21:55
+tranquiloo
+
+ANTONIO JUNIOR
+22:14
+curl -L 
+
+https://raw.githubusercontent.com/jbrownlee/Datasets/master/iris.csv 
+
+-o iris.csv
+
+curl -L  https://raw.githubusercontent.com/jbrownlee/Datasets/master/iris.csv -o iris.csv
+
+https://github.com/acnaweb/iac/blob/main/Dockerfile
+
+[19:23, 9/2/2026] Antonio Carlos (AC): https://notepad.pw/aulamackenzie
+[19:25, 9/2/2026] Antonio Carlos (AC): https://github.com/acnaweb/iac
+[20:12, 9/2/2026] Antonio Carlos (AC): https://notepad.pw/aulamackenzie
+ANTONIO JUNIOR
+21:33
+https://github.com/acnaweb/iac
+
+https://alpinelinux.org/
+
+docker build -t minha-imagem .
+
+https://semver.org/
+
+kevyn zarpellon
+21:55
+tranquiloo
+
+ANTONIO JUNIOR
+22:14
+curl -L 
+
+https://raw.githubusercontent.com/jbrownlee/Datasets/master/iris.csv 
+
+-o iris.csv
+
+curl -L  https://raw.githubusercontent.com/jbrownlee/Datasets/master/iris.csv -o iris.csv
+
+https://github.com/acnaweb/iac/blob/main/Dockerfile
+
+
+
+
+
+
+docker run -it -v ./shared:/opt/sh
+ared iac:0.7.0
+
+
+
+
+
+
+
+
+
+
+
