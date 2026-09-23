@@ -1,3 +1,7 @@
+resource "aws_s3_bucket" "dinanico" {
+  bucket = var.nome_bucket
+}
+
 resource "aws_s3_bucket" "bucket1" {
   bucket = "marketmining-bucket1"
 }

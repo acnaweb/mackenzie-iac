@@ -18,11 +18,13 @@ terraform init
 
 terraform plan
 
-terraform plan --target=module.compute
+terraform plan --target=module.storage
+
+terraform plan --target=module.storage -var-file=environments/prd.tfvars  
 
 terraform apply
 
-terraform apply --target=module.compute
+terraform apply --target=module.compute -var-file=environments/prd.tfvars  
 
 terraform import aws_s3_bucket.repetido mba-cloud-sre-mm-mackenzie
 
