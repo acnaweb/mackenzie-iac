@@ -15,12 +15,15 @@ docker run -it -v .:/shared iac
 ```
 
 terraform init
+terraform init -backend-config=dev/backend.hcl
+terraform init -backend-config=prd/backend.hcl
 
 terraform plan
 
 terraform plan --target=module.storage
+terraform plan --target=module.storage -var-file=dev/terraform.tfvars  
+terraform plan --target=module.storage -var-file=prd/terraform.tfvars  
 
-terraform plan --target=module.storage -var-file=environments/prd.tfvars  
 
 terraform apply
 

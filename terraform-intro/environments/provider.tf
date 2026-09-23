@@ -7,12 +7,6 @@ terraform {
   }
 
   backend "s3" {
-    bucket = "markemining-terraform"
-    key = "state"
-    region = "us-east-1"
+
   }
-}
-
-provider "aws" {
-
 }

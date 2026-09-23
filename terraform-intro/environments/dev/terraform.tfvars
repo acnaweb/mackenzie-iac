@@ -1,0 +1,1 @@
+nome_bucket = "marketmining-bucket-dinamico-dev"
